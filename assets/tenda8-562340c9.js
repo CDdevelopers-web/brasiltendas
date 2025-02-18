@@ -1,0 +1,1 @@
+const s="/brasiltendas/assets/tenda1-1c050fee.jpeg",a="/brasiltendas/assets/tenda3-47d63ed0.jpeg",e="/brasiltendas/assets/tenda4-5bcbdb8e.jpeg",t="/brasiltendas/assets/tenda5-9974b7e4.jpeg",n="/brasiltendas/assets/tenda6-956124d1.jpeg",d="/brasiltendas/assets/tenda8-580aa419.jpeg";export{s as a,a as b,e as c,t as d,n as e,d as t};
