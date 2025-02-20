@@ -1,1 +1,0 @@
-const s="/brasiltendas/assets/tenda1-1c050fee.jpeg",a="/brasiltendas/assets/tenda3-47d63ed0.jpeg",e="/brasiltendas/assets/tenda4-5bcbdb8e.jpeg",t="/brasiltendas/assets/tenda5-9974b7e4.jpeg",d="/brasiltendas/assets/tenda6-956124d1.jpeg";export{a,e as b,t as c,d,s as t};
